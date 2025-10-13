@@ -29,6 +29,14 @@ Aquí puedes encontrar algunos de los proyectos en los que he estado trabajando.
 | **Juego N en Raya** | Versión web del clásico juego, con una interfaz interactiva y validación de la lógica del juego. | `HTML`, `CSS`, `JavaScript` | `[Ver Repositorio]`|
 | **API REST (en desarrollo)** | API para la gestión de usuarios y posts, utilizando un stack moderno con tipado estricto y ORM. | `TypeScript`, `Node.js`, `Express`, `Prisma` | `[Ver Repositorio]`|
 
+--
+
+## Estadisticas
+
+![MaraMirandav's Stats](https://github-readme-stats.vercel.app/api?username=MaraMirandav&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![MaraMirandav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaraMirandav&theme=dark&hide_border=true)
+![MaraMirandav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaraMirandav&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 ---
 
 ## 📫 Contacto
