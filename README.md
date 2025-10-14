@@ -1,10 +1,13 @@
 # ¡Hola! Soy María Elena Miranda 👋
 
+[!INFO]
+👩‍🏫➡️👩‍💻 Profesora chilena 🇨🇱 en transición al mundo del código. Apasionada por aprender.
+
 ## Sobre Mí
 
-Actualmente curso el segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi transición al sector tecnológico surge tras más de ocho años de carrera en la educación, donde mi experiencia gestionando plataformas y capacitando equipos consolidó mi interés por construir soluciones de software.
+Actualmente curso el segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi transición al sector tecnológico surge tras más de ocho años de carrera en el sector educativo en Chile, donde asumí responsabilidades técnicas como la administración de la plataforma WebClass y capacitación del equipo docente en el centro educativo donde trabajaba. Esta experiencia consolidó mi interés por el desarrollo de software, especialmente por su potencial para crear soluciones innovadoras en el ámbito educativo.
 
-Mi perfil combina las habilidades de comunicación, gestión de proyectos y resolución de problemas de mi trayectoria anterior con las competencias técnicas que estoy adquiriendo. Mi objetivo es continuar mi desarrollo profesional para aplicarlo en la creación de soluciones de software innovadoras, con un interés especial a largo plazo en el **sector EdTech**.
+Mi perfil combina las habilidades de comunicación, gestión de proyectos y resolución de problemas de mi trayectoria anterior con las competencias técnicas que estoy adquiriendo. Mi objetivo es continuar mi desarrollo profesional para aplicarlo en la creación de soluciones de software innovadoras. A largo plazo, me gustaría enfocar mi carrera en crear soluciones que generen un impacto positivo en el sector educativo.
 
 - 🔭 Actualmente estoy trabajando en mis proyectos de 2º de DAM.
 - 🌱 Estoy aprendiendo sobre desarrollo de APIs con **TypeScript** y **Docker**.
