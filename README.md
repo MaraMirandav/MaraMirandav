@@ -70,7 +70,6 @@ Aquí puedes encontrar algunos de los proyectos en los que he estado trabajando.
 | **Cajero ATM (CLI)** | Aplicación de terminal que simula operaciones bancarias, implementando el patrón DAO y transacciones SQL. | `Java`, `Python`, `JDBC`, `MySQL` | [Ver Repositorio - Python](https://github.com/MaraMirandav/Ejercicio-Cajero-Python) <br> [Ver Repositorio - Java](https://github.com/MaraMirandav/Ejercicio-Cajero-Java) |
 | **Juego N en Raya** | Versión web del clásico juego, con una interfaz interactiva y validación de la lógica del juego. | `HTML`, `CSS`, `JavaScript` | [Ver Repositorio](https://github.com/MaraMirandav/Ejercicio-N-en-Raya-con-JavaScript)|
 | **API REST (en desarrollo)** | API para la gestión de usuarios y posts, utilizando un stack moderno con tipado estricto y ORM. | `TypeScript`, `Node.js`, `Express`, `Prisma` | [Ver Repositorio](https://github.com/MaraMirandav/Creando-una-API-REST-con-TypeScript)|
-
 | **Ejercicios prácticos en PLSQL** | Ejercicios que incluyen bloques, procedimientos, funciones, cursores, triggers y paquetes. | `PLSQL`, `ORACLE Database` | [Ver Repositorio](https://github.com/MaraMirandav/Ejercicios-PLSQL)|
 
 --
