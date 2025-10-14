@@ -1,7 +1,8 @@
 # ¡Hola! Soy María Elena Miranda 👋
 
-[!INFO]
-👩‍🏫➡️👩‍💻 Profesora chilena 🇨🇱 en transición al mundo del código. Apasionada por aprender.
+> [!INFO]
+> 👩‍🏫➡️👩‍💻 **Profesora chilena 🇨🇱 en transición al mundo del código.**
+> Apasionada por aprender.
 
 ## Sobre Mí
 
