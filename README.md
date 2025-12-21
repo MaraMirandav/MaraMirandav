@@ -28,9 +28,10 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Threads](https://img.shields.io/badge/Threads-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-Actualmente, estoy aprendiendo acceso a datos con **Hibernate (JPA)** y programación multihilo con **Threads**.
-
+Actualmente, estoy aprendiendo acceso a datos con **Hibernate (JPA)** y programación con hilos con **Threads**.
 
 ### Aprendizaje Autodidacta
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
