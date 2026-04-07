@@ -11,7 +11,6 @@ Actualmente curso el segundo año de **Desarrollo de Aplicaciones Multiplataform
 Mi perfil combina las habilidades de comunicación, gestión de proyectos y resolución de problemas de mi trayectoria anterior con las competencias técnicas que estoy adquiriendo. Mi objetivo es continuar mi desarrollo profesional para aplicarlo en la creación de soluciones de software innovadoras. A largo plazo, me gustaría enfocar mi carrera en crear soluciones que generen un impacto positivo en el sector educativo.
 
 - 🔭 Actualmente estoy trabajando en mis proyectos de 2º de DAM.
-- 🌱 Estoy aprendiendo sobre desarrollo de APIs con **TypeScript** y **Docker**.
 - 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/maramirandav/) ---
 
 ## 🛠️ Tecnologías y Herramientas
