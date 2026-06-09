@@ -1,64 +1,63 @@
-# ¡Hola! Soy María Elena Miranda 👋
+# ¡Hola! Soy María Elena Miranda Villablanca 👋
 
-👩‍🏫➡️👩‍💻 **Profesora chilena 🇨🇱 en transición al mundo del código.**
-<br> 📍 Estudiante de segundo año de DAM en Madrid, España
-<br> 🚀 En constante aprendizaje 
+**👩🏻‍💻 Desarrolladora de Software (DAM)**
+<br> 👩🏻‍🏫 Ex-Profesora chilena 🇨🇱 en el mundo tech
+<br> 🎓 De escribir historias en las aulas a crear código en Madrid 💻
+<br> 🚀 En constante evolución y aprendizaje
 
-## Sobre Mí
+---
 
-Actualmente curso el segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi transición al sector tecnológico surge tras más de ocho años de carrera en el sector educativo en Chile, donde asumí responsabilidades técnicas como la administración de la plataforma WebClass y capacitación del equipo docente en el centro educativo donde trabajaba. Esta experiencia consolidó mi interés por el desarrollo de software, especialmente por su potencial para crear soluciones innovadoras en el ámbito educativo.
+## Sobre Mí 👩🏻‍💻
 
-Mi perfil combina las habilidades de comunicación, gestión de proyectos y resolución de problemas de mi trayectoria anterior con las competencias técnicas que estoy adquiriendo. Mi objetivo es continuar mi desarrollo profesional para aplicarlo en la creación de soluciones de software innovadoras. A largo plazo, me gustaría enfocar mi carrera en crear soluciones que generen un impacto positivo en el sector educativo.
+Soy Desarrolladora de Software Backend con formación como **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** y tengo un perfil un poco diferente al habitual: antes de volcarme por completo a la programación, trabajé 8 años en educación. Aunque en mi día a día era profesora, siempre terminaba metida en la parte técnica; por eso acabé encargándome de la administración de la plataforma educativa WebClass (LMS) y de capacitar al equipo docente. 
 
-- 🔭 Actualmente estoy trabajando en mis proyectos de 2º de DAM.
+Aunque mi especialidad es el desarrollo backend con **Java** y **Spring Boot**, manejo **Python, JavaScript y TypeScript**, lo que me ayuda a entender cómo encaja cada pieza en el ciclo completo de un proyecto.
+
+Actualmente, sigo expandiendo mis habilidades aprendiendo **React** de manera autodidacta para complementar mi perfil y seguir evolucionando cada día.
+
 - 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/maramirandav/) ---
 
+---
+
 ## 🛠️ Tecnologías y Herramientas
-Aquí están algunas de las tecnologías con las que he trabajado:
 
-### Fundamentos DAM
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Threads](https://img.shields.io/badge/Threads-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+### Backend & Frameworks
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-Actualmente, estoy aprendiendo acceso a datos con **Hibernate (JPA)** y programación con hilos con **Threads**.
+### Frontend & Estilos
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
-### Aprendizaje Autodidacta
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-Actualmente, estoy aprendiendo por mi cuenta **TypeScript** y lo estoy aplicando en la construcción de una API REST, donde también estoy aprendiendo a utilizar **Express.js** y **Prisma**. Además, estoy explorando los conceptos básicos de **Docker** para la contenedorización de aplicaciones.
+### Bases de Datos y Persistencia
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ### Herramientas
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle SQL Developer](https://img.shields.io/badge/SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-Actualmente estoy aprendiendo a elaborar aplicaciones sencillas con **Android Studio**, como una calculadora, un conversor de grados y próximamente un juego de 3 en raya.
+### Inteligencia Artificial
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Minimax](https://img.shields.io/badge/minimax-B4393C?style=for-the-badge&logo=minimax&logoColor=white)
 
-### Metodologías
-`Programación Orientada a Objetos (POO)` `Diseño DAO` `Transacciones SQL`
-
-### Software y Plataformas
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-DD5827?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+#### 🚀 **Próximo objetivo:** 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 ---
 
@@ -67,12 +66,12 @@ Aquí puedes encontrar algunos de los proyectos en los que he estado trabajando.
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 |---|---|---|---|
+|**SaaS Multi-tenant - Gestión de Centros de Día** | **Proyecto Final de Grado (Calificación 10)**. Diseño e implementación de la arquitectura completa del lado del servidor (MVC), seguridad basada en roles con Spring Security y un modelo relacional de 57 entidades. |`Java`, `Spring Boot`, `Spring Security`, `PostgreSQL`, `Docker Compose`, `MapStruct`| [Ver Repositorio](https://github.com/MaraMirandav/SpringBoot-TFG) |
+|**Sistema de Gestión Comercial (Clientes y Pedidos)** | Aplicación de consola que gestiona operaciones comerciales complejas implementando el patrón **DAO**. Configuración nativa de persistencia con **JPA e Hibernate** y manejo de bases de datos relacionales con transacciones seguras. | `Java`, `JPA`, `Hibernate`, `MySQL`, `Patrón DAO`, `SQL` | [Ver Repositorio](https://github.com/MaraMirandav/Ejercicio-gestion-Clientes-y-Pedidos-JPA) |
 | **Cajero ATM (CLI)** | Aplicación de terminal que simula operaciones bancarias, implementando el patrón DAO y transacciones SQL. | `Java`, `Python`, `JDBC`, `MySQL` | [Ver Repositorio - Python](https://github.com/MaraMirandav/Ejercicio-Cajero-Python) <br><br> [Ver Repositorio - Java](https://github.com/MaraMirandav/Ejercicio-Cajero-Java)<br>|
-| **Juego N en Raya** | Versión web del clásico juego, con una interfaz interactiva y validación de la lógica del juego. | `HTML`, `CSS`, `JavaScript` | [Ver Repositorio](https://github.com/MaraMirandav/Ejercicio-N-en-Raya-con-JavaScript)|
-| **API REST (en desarrollo)** | API para la gestión de usuarios y posts, utilizando un stack moderno con tipado estricto y ORM. | `TypeScript`, `Node.js`, `Express`, `Prisma` | [Ver Repositorio](https://github.com/MaraMirandav/Creando-una-API-REST-con-TypeScript)|
 | **Ejercicios prácticos en PLSQL** | Ejercicios que incluyen bloques, procedimientos, funciones, cursores, triggers y paquetes. | `PLSQL`, `ORACLE Database` | [Ver Repositorio](https://github.com/MaraMirandav/Ejercicios-PLSQL)|
 
---
+---
 
 ## Estadisticas
 
