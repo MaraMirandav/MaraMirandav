@@ -75,9 +75,11 @@ Aquí puedes encontrar algunos de los proyectos en los que he estado trabajando.
 
 ## Estadisticas
 
-![MaraMirandav's Stats](https://github-readme-stats.vercel.app/api?username=MaraMirandav&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![MaraMirandav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaraMirandav&theme=dark&hide_border=true)
-![MaraMirandav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaraMirandav&theme=dark&show_icons=true&hide_border=true&layout=compact)
+## Estadisticas
+
+[![MaraMirandav's Stats](https://github-readme-stats.vercel.app/api?username=MaraMirandav&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![MaraMirandav's Streak](https://streak-stats.demolab.com?user=MaraMirandav&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![MaraMirandav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaraMirandav&theme=dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
